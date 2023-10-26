@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bem vindo ao meu perfil. 👽
 
-<!--
-**magalhaes12345/magalhaes12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- meu nome é Giovanna Silveira de Lima
+-ultiliza a plataforma Alura para aperfeisuar meu aprendizado.
+-  estou me desenvolvendo nas linguagens JavaScript, himl e css
+-ultilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-Here are some ideas to get you started:
+### voce pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+giovanna.silveira.lima@ecola.pr.gov.br
+
+
+
+
+
+
+
+
+
